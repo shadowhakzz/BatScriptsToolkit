@@ -59,3 +59,9 @@ These scripts can significantly impact your system and result in data loss. The 
 ---
 
 **Note:** These scripts are intended for specific and experimental purposes. Improper use may result in data loss and system failure.
+
+
+## Developers
+
+- [shadowhakzz]
+
